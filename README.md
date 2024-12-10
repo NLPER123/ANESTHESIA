@@ -1,8 +1,10 @@
-ANESTHESIA\
-Assumptions:\
-The EEG data is stored in EDF files (European Data Format).\
-You have access to Python libraries like MNE, scipy, pandas, numpy, sklearn, and pycatch22.\
-Your dataset contains the necessary metadata, such as mentation categories and EEG features.\
+ANESTHESIA
+
+Assumptions:
+1. The EEG data is stored in EDF files (European Data Format).
+2. You have access to Python libraries like MNE, scipy, pandas, numpy, sklearn, and pycatch22.
+3. Your dataset contains the necessary metadata, such as mentation categories and EEG features.
+
 Functions:
 1. Load and preprocess EEG data.
 2. Extract features (PSD, Catch22, etc.) from the EEG.
