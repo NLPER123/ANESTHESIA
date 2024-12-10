@@ -1,4 +1,4 @@
-# ANESTHESIA
+ANESTHESIA
 Assumptions:
 The EEG data is stored in EDF files (European Data Format).
 You have access to Python libraries like MNE, scipy, pandas, numpy, sklearn, and pycatch22.
